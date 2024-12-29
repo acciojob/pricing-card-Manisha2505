@@ -1,4 +1,19 @@
 /*  your css code here. If applicable */
+#btn{
+	margin-left: 20.7%;
+	margin-right: 50%;
+	width: 60%;
+	padding: 20px;
+	border: black 1px;
+	border-radius: 10px;
+	background-color: red; 
+	color: #ffff;
+	
+}
+.buttondiv{
+	margin: auto;
+	width: 50%;	
+}
 .contentdiv {
 	margin: auto;
 	width: 60%;	
